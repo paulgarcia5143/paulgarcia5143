@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Paul (@paulgarcia5143) 👋
 
-<!--
-**paulgarcia5143/paulgarcia5143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer based in Amsterdam. Spend most days writing Dart or TypeScript for cross-platform apps at App Studio.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- 📱 Building production mobile apps with Flutter and React Native
+- 🧪 Experimenting with local-first sync patterns & offline SQLite
+- ⚡ Exploring Kotlin Multiplatform for shared business logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use daily:
+- **Languages:** Dart, TypeScript, JavaScript
+- **Frameworks:** Flutter, React Native, Expo
+- **Backend & Tooling:** Firebase, Supabase, Fastlane, GitHub Actions, Figma
+
+#### Reach out:
+- LinkedIn: [linkedin.com/in/paulgarcia5143](https://linkedin.com)
+- Email: paul.garcia.dev@gmail.com
+- Always down to chat app architecture or swap Amsterdam coffee spot recs.
